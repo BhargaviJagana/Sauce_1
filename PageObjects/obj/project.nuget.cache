@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BvcyZ4R9nSI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bhargavi_jagana\\Desktop\\c#_files\\AlitaPracticeFramework\\PageObjects\\PageObjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhargavi_jagana\\.nuget\\packages\\selenium.webdriver\\4.26.1\\selenium.webdriver.4.26.1.nupkg.sha512",
+    "C:\\Users\\bhargavi_jagana\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\bhargavi_jagana\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\bhargavi_jagana\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512",
+    "C:\\Users\\bhargavi_jagana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\bhargavi_jagana\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\bhargavi_jagana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}
